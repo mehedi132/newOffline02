@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Offline02</string>
+    <string name="message">Do you want to exit?</string>
+
+
+    <string name="defination">Coronavirus disease (COVID-19) is an infectious disease caused by a new virus.
+The disease causes respiratory illness (like the flu) with symptoms such as a cough, fever, and in more severe cases, difficulty breathing. You can protect yourself by washing your hands frequently, avoiding touching your face, and avoiding close contact (1 meter or 3 feet) with people who are unwell.
+
+Coronavirus disease spreads primarily through contact with an infected person when they cough or sneeze.
+        It also spreads when a person touches a surface or object that has the virus on it, then touches their eyes, nose, or mouth. </string>
+    <string name="treatment">There is no specific medicine to prevent or treat coronavirus disease (COVID-19). People may need supportive care to help them breathe.
+If you develop a fever, cough, and have difficulty breathing, promptly seek medical care. Call in advance and tell your health provider of any recent travel or recent contact with travelers.</string>
+
+
+</resources>

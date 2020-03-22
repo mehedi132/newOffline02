@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorred"
+    tools:context=".secondActivity"
+
+    >
+
+    <Button
+        android:id="@+id/button01"
+        android:layout_width="228dp"
+        android:layout_height="147dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="53dp"
+
+        android:text="Defination" />
+
+    <Button
+        android:id="@+id/button02"
+        android:layout_width="228dp"
+        android:layout_height="147dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="260dp"
+        android:layout_marginTop="57dp"
+        android:layout_marginEnd="11dp"
+        android:text="Symptoms" />
+
+    <Button
+        android:id="@+id/button03"
+        android:layout_width="471dp"
+        android:layout_height="193dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="3dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="193dp"
+        android:text="Prevention" />
+
+    <Button
+        android:id="@+id/button04"
+        android:layout_width="470dp"
+        android:layout_height="157dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="0dp"
+        android:layout_marginEnd="11dp"
+        android:layout_marginBottom="19dp"
+        android:text="Treatment" />
+
+</RelativeLayout>
